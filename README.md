@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jfoust000
-- 👀 I’m interested in Software Development, playing video games, and working out
-- 🌱 I’m currently learning HTML, CSS, and JavaScript - including REACT 
-- 💞️ I’m looking to collaborate on Web based applications - to gain experience collaborating on front-end and full stack applications
-- 📫 How to reach me:
+Hi, I’m @jfoust000
+I’m interested in Software Development, playing video games, cooking, producing music, and working out.
+I'm currently working on some personal projects - to build a portfolio as I continue to learn HTML, CSS, and JavaScript.
+I’m also interested in collaborating on Web based applications - to gain experience developing front-end and full stack applications.
+
+How to reach me:
 
 Email: joel.foust@yahoo.com
 
