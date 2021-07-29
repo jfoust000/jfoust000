@@ -1,7 +1,7 @@
-Hi, I’m @jfoust000
+Hi, I’m Joel Foust.
 I’m interested in Software Development, playing video games, cooking, producing music, and working out.
 I'm currently working on some personal projects - to build a portfolio as I continue to learn HTML, CSS, and JavaScript.
-I’m also interested in collaborating on Web based applications - to gain experience developing front-end and full stack applications.
+I’m also interested in collaborating on Web based applications - to gain more experience developing front-end and full stack applications.
 
 How to reach me:
 
